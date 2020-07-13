@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "SocketDemo": {
+      "commandName": "Project",
+      "commandLineArgs": "http://localhost/test.txt"
+    }
+  }
+}
